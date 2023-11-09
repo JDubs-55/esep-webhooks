@@ -1,7 +1,0 @@
-/Users/admin/Desktop/CIS4930 - Software Engineering/EventDrivenArchitecture/EsepFunction/src/EsepFunction/bin/Release/net6.0/publish/EsepFunction.deps.json
-/Users/admin/Desktop/CIS4930 - Software Engineering/EventDrivenArchitecture/EsepFunction/src/EsepFunction/bin/Release/net6.0/publish/EsepFunction.runtimeconfig.json
-/Users/admin/Desktop/CIS4930 - Software Engineering/EventDrivenArchitecture/EsepFunction/src/EsepFunction/bin/Release/net6.0/publish/EsepFunction.pdb
-/Users/admin/Desktop/CIS4930 - Software Engineering/EventDrivenArchitecture/EsepFunction/src/EsepFunction/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
-/Users/admin/Desktop/CIS4930 - Software Engineering/EventDrivenArchitecture/EsepFunction/src/EsepFunction/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
-/Users/admin/Desktop/CIS4930 - Software Engineering/EventDrivenArchitecture/EsepFunction/src/EsepFunction/bin/Release/net6.0/publish/Newtonsoft.Json.dll
-/Users/admin/Desktop/CIS4930 - Software Engineering/EventDrivenArchitecture/EsepFunction/src/EsepFunction/bin/Release/net6.0/publish/EsepFunction.dll
